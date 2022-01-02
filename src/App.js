@@ -8,7 +8,7 @@ export default function App() {
     <>
       <div>
         <img className="App" src={Background} />
-        <img class="logo" src={wobot} />
+        <img className="logo" src={wobot} />
       </div>
       <div className="form">
         <img src={solid} />
